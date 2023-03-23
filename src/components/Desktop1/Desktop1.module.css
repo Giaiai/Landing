@@ -1,0 +1,347 @@
+.root {
+  position: relative;
+  width: 1542px;
+  height: 3171px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.logofav1 {
+  position: absolute;
+  left: 692px;
+  top: 76px;
+  width: 157px;
+  height: 142px;
+  background-image:/* webpackIgnore: true */ url('assets/logofav1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.onePlaceSeveralUniverses {
+  color: #000;
+  font-size: 90px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 43px;
+  top: 354px;
+  width: 1455px;
+  height: 137px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.theWeb3EcosystemHasBeenBuiltAr {
+  position: absolute;
+  left: 280px;
+  top: 613px;
+  width: 982px;
+  height: 1794px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 48px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #dbd4d4;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #b8a1a1;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label3 {
+  color: #dbd4d4;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label4 {
+  color: #b8a1a1;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label5 {
+  color: #dbd4d4;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock {
+  margin-top: 0;
+  color: #dbd4d4;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+}
+.labelWrapper2 {
+  font-size: 48px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label6 {
+  color: #dbd4d4;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label7 {
+  color: #b8a1a1;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label8 {
+  color: #dbd4d4;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label9 {
+  color: #b8a1a1;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label10 {
+  color: #dbd4d4;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label11 {
+  color: #b8a1a1;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label12 {
+  color: #dbd4d4;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label13 {
+  color: #b8a1a1;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label14 {
+  color: #dbd4d4;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #dbd4d4;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #dbd4d4;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock5 {
+  margin-top: 0;
+  color: #dbd4d4;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock6 {
+  margin-top: 0;
+}
+.labelWrapper3 {
+  font-size: 48px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label15 {
+  color: #b8a1a1;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label16 {
+  color: #dbd4d4;
+  font-size: 48px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.georgia2023 {
+  color: #d4d1d1;
+  font-size: 32px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 631px;
+  top: 3049px;
+  width: 250px;
+  height: 32px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.tryOurBetaVersionsAndJoinTheWa {
+  color: #000;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 301px;
+  top: 2853px;
+  width: 928px;
+  height: 35px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle412 {
+  position: absolute;
+  left: 296px;
+  top: 2587px;
+  width: 242px;
+  height: 86px;
+  outline: solid 1px #000;
+  outline-offset: -1px;
+  background-color: #fff;
+}
+.rectangle413 {
+  position: absolute;
+  left: 643px;
+  top: 2587px;
+  width: 242px;
+  height: 86px;
+  outline: solid 1px #000;
+  outline-offset: -1px;
+  background-color: #fff;
+}
+.rectangle414 {
+  position: absolute;
+  left: 991px;
+  top: 2587px;
+  width: 242px;
+  height: 86px;
+  outline: solid 1px #000;
+  outline-offset: -1px;
+  background-color: #fff;
+}
+.compute {
+  color: #000;
+  font-size: 40px;
+  line-height: 29.001px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.231px;
+  text-decoration: underline;
+  position: absolute;
+  left: 664px;
+  top: 2601px;
+  width: 200px;
+  height: 59px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.textBlock7 {
+  display: block;
+}
+.static {
+  color: #000;
+  font-size: 40px;
+  line-height: 29.001px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.231px;
+  text-decoration: underline;
+  position: absolute;
+  left: 317px;
+  top: 2601px;
+  width: 200px;
+  height: 59px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.textBlock8 {
+  display: block;
+}
+.hardware {
+  color: #000;
+  font-size: 40px;
+  line-height: 29.001px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.231px;
+  text-decoration: underline;
+  position: absolute;
+  left: 1011px;
+  top: 2604px;
+  width: 200px;
+  height: 59px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.textBlock9 {
+  display: block;
+}
+.line2 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 158px;
+  top: 3023px;
+  width: 1226.0004px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #d4d1d1;
+  margin-bottom: -1px;
+  transform: matrix(1, 0.0008, -0.0008, 1, 0, 0);
+}
